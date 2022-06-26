@@ -1,0 +1,137 @@
+[
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En que año fue la independencia de Guatemaña?",
+        "respuesta": "15 de Septiembre de 1821",
+        "incorrecta1": "14 de Noviembre de 1822",
+        "incorrecta2": "15 de Septiembre de 1823",
+        "incorrecta3": "14 de Septiembre de 1821",
+        "imagen": "https://i.ibb.co/2s94JmH/independecia.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Quien fue el autor de Luna de Xelaju?",
+        "respuesta": "Paco Pérez",
+        "incorrecta1": "Ricardo Arjona",
+        "incorrecta2": "Malacates",
+        "incorrecta3": "Tuco Cardenas",
+        "imagen": "https://i.ibb.co/yFN8gd1/lunadexelaju.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En que departamento de Guatemala esta la estela mas alta del Mundo Maya?",
+        "respuesta": "Izabal",
+        "incorrecta1": "Peten",
+        "incorrecta2": "El Progreso",
+        "incorrecta3": "Alta Verapaz",
+        "imagen": "https://i.ibb.co/fCBPKkW/estela.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En que departamento de Guatemala esta la estela mas alta del Mundo Maya?",
+        "respuesta": "Izabal",
+        "incorrecta1": "Peten",
+        "incorrecta2": "El Progreso",
+        "incorrecta3": "Alta Verapaz",
+        "imagen": "https://i.ibb.co/fCBPKkW/estela.png",
+        "objectFit": "cover"
+    }
+    ,
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En que año se fundo Quetzaltenango?",
+        "respuesta": "1845",
+        "incorrecta1": "1841",
+        "incorrecta2": "1831",
+        "incorrecta3": "1746",
+        "imagen": "https://i.ibb.co/xgYPVVz/Quetzaltenango-2.png",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "Nuestros padres lucharon un día encendidos en patrio ardimiento....",
+        "respuesta": "y lograron sin choque sangriento colocarte en un trono de amor.",
+        "incorrecta1": "el arado que el suelo fecunda y la espada que salva el honor.",
+        "incorrecta2": "que tu pueblo con ánima fiera antes muerto que esclavo será.",
+        "incorrecta3": "bajo el ala de grana y de oro te adormeces del bello quetzal.",
+        "imagen": "https://i.ibb.co/xGHPGpL/himno.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Gentilicio de Jalapa?",
+        "respuesta": "jalapaneco",
+        "incorrecta1": "Jalapeño",
+        "incorrecta2": "Jalapaquence",
+        "incorrecta3": "Jalateco",
+        "imagen": "https://i.ibb.co/Q85zDkH/jalapa.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Cúal es el volcán activo mas alto de guatemala?",
+        "respuesta": "Tajumulco",
+        "incorrecta1": "Acatenango",
+        "incorrecta2": "La Tuna",
+        "incorrecta3": "Tahual",
+        "imagen": "https://i.ibb.co/2h7TdQQ/volvan.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Qué Guatemalteco ganó el primer Premio de la Literatura?",
+        "respuesta": "Miguel Ángel Asturias",
+        "incorrecta1": "Rigoberta Menchú ",
+        "incorrecta2": "Jacobo Árbenz",
+        "incorrecta3": "Carlos Ruiz",
+        "imagen": "https://i.ibb.co/BB2rkF2/paz.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Quíen aparece en el billete de 5 quetzales?",
+        "respuesta": "Justo Rufino Barrios",
+        "incorrecta1": "Cristobal Colon",
+        "incorrecta2": "Miguel García Granados",
+        "incorrecta3": "Mariano Gálvez",
+        "imagen": "https://i.ibb.co/zQzcVhF/billete5.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿En que municipio de Peten se encuentra el parque arqueológico de Tikal?",
+        "respuesta": "Flores",
+        "incorrecta1": "Santa Ana",
+        "incorrecta2": "Melchor de Mencos",
+        "incorrecta3": "Pacaja",
+        "imagen": "https://i.ibb.co/DGHxHTJ/tikal.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿El 20 de octubre de 1944, hubo un alzamiento civico-militar que derrocó a un presidente PROVISORIO. ¿De quién hablamos?",
+        "respuesta": "Jorge Ubico",
+        "incorrecta1": "Efraín Ríos Montt",
+        "incorrecta2": "Federico Ponce Vaides",
+        "incorrecta3": "Otto Perez",
+        "imagen": "https://i.ibb.co/SRWtNGp/Revoluci-n-de-Guatemala-de-1944.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Cultura General",
+        "pregunta": "¿Qué tipo de flor es la Monja Blanca?",
+        "respuesta": "Orquídea",
+        "incorrecta1": "Crisantemo",
+        "incorrecta2": "Anémona",
+        "incorrecta3": "cactáceas",
+        "imagen": "https://i.ibb.co/N6JtkL6/monja.jpg",
+        "objectFit": "cover"
+    }
+    
+
+]
