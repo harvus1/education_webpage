@@ -33,4 +33,3 @@ Principalmente que nos divetimos como equipo pensando que pagina subiriamos y qu
 Creemos que la actividad puede ser planificada con tiempo incluso abarcar un poco el periodo de las vacaciones, para que los estudiantes de puedan darle mas tiempo a la actividad y puedan crear mejores paginas web. 
 
 
-## Imagenes de nuestra pagina web.
