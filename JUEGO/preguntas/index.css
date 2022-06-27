@@ -1,77 +1,118 @@
+* {
+  transition: all 0.3s;
+}
 
-    * {
-      transition: all 0.3s;
-    }
+body {
+  background: #2a9d8f;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: calibri;
+  font-size: 120%;
+}
 
-    body {
-      background: #2A9D8F;
-      padding: 0;
-      margin: 0;
-      text-align: center;
-      font-family: calibri;
-      font-size: 120%;
-    }
+/* CSS */
+.button_home {
+  display: flex;
+  justify-content:flex-end;
+  margin-left: 100px;
+  margin-top: 40px;
+  font-size: 16px;
+  font-weight: 200;
+  letter-spacing: 1px;
+  padding: 13px 20px 13px;
+  outline: 0;
+  border: 1px solid black;
+  cursor: pointer;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
 
-    .contenedor {
-      width: 98vw;
-      height: 97vh;
-      display: inline-flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
+.button_home:after {
+  content: "";
+  background-color: #ffe54c;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  height: 100%;
+  top: 7px;
+  left: 7px;
+  transition: 0.2s;
+}
 
-    .encabezado {
-      position: relative;
-      background: white;
-      min-width: 300px;
-      width: 70%;
-      max-width: 600px;
-      padding: 10px;
-    }
+.button_home:hover:after {
+  top: 0px;
+  left: 0px;
+}
 
-    .categoria {
-      opacity: 0.3;
-      text-align: left;
-    }
+.button_home a{
+  text-decoration: none;
+  color: black;
+}
 
-    .pregunta {
-      padding: 10px;
-    }
+@media (min-width: 768px) {
+  .button_home {
+    padding: 13px 50px 13px;
+  }
+}
 
-    .imagen {
-      object-fit: cover;
-      height: 0px;
-      width: 0px;
-    }
+.contenedor {
+  width: 98vw;
+  height: 97vh;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
-    .btn {
-      background: white;
-      width: 60%;
-      max-width: 550px;
-      padding: 10px;
-      margin: 5px;
-      cursor: pointer;
-    }
+.encabezado {
+  position: relative;
+  background: white;
+  min-width: 300px;
+  width: 70%;
+  max-width: 600px;
+  padding: 10px;
+}
 
-    .btn:hover {
-      transform: scale(1.05);
-    }
-    
-    .numero{
-      position: absolute;
-      opacity:0.3;
-      top: 10px;
-      right: 10px;
-    }
-    
-    .puntaje{
-      padding:10px;
-      color:white;
-    }
-    
-    
-    
-    
+.categoria {
+  opacity: 0.3;
+  text-align: left;
+}
 
-    
+.pregunta {
+  padding: 10px;
+}
+
+.imagen {
+  object-fit: cover;
+  height: 0px;
+  width: 0px;
+}
+
+.btn {
+  background: white;
+  width: 60%;
+  max-width: 550px;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+.numero {
+  position: absolute;
+  opacity: 0.3;
+  top: 10px;
+  right: 10px;
+}
+
+.puntaje {
+  padding: 10px;
+  color: white;
+}
