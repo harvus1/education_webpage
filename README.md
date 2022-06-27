@@ -22,7 +22,7 @@ Luego de analizar todos los objetivos que existen entre los objetivos de desarro
 ### Forma de trabajo
 El proyecto lo trabajamos a través de llamadas en Discord, el cual no fuimos distribuyendo por partes, Pablo se encargó principalmente de los estilos de CSS y SASS, mientras que Axel se fue encargando de la estructura del HTML y la información que se utilizaría en la página web como las imagenes. en las charlas fuimos pensando en otras funcionalidades que le podría dar a la página para que fuera más interactiva con el usuario por lo cual decidimos crear una página de un juego y también una sección de biblioteca virtual con libros de dominio público.
 
-### Inconvenientes.
+### Inconvenientes
 El principal inconveniente al crear la página fue el tiempo ya que teníamos otros proyectos y tareas asignados por lo cual se lo pudo dedicar poco tiempo a la creación de la página, tuvimos muchas ideas y funciones que quisimos ir agregando, pero por el tiempo con el que disponíamos no íbamos a poder tratar de llevarlas a cabo porque nuestra página iba a queda incompleta. Pensamos que esta actividad fue planeada en mal tiempo de ciclo universitario ya que el Inter ciclo es un pedido muy corto cargado de muchas tareas.
 
 ### Publicacion del sitio web
